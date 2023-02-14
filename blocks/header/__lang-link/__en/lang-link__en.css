@@ -5,7 +5,7 @@
     text-decoration: none;
 }
 @media (max-width: 320px) {
-    .en__lang-link{
+    .lang-link__en{
             max-width: 22px;
             height: 20px;
         }
