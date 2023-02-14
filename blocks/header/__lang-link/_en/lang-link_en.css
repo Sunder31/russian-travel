@@ -1,11 +1,11 @@
-.lang-link__ru{
+.lang-link_en{
     max-width: 30px;
     height: 28px;
     color: #FFFFFF;
-    text-decoration: underline;
+    text-decoration: none;
 }
 @media (max-width: 320px) {
-    .lang-link__ru{
+    .lang-link_en{
             max-width: 22px;
             height: 20px;
         }
