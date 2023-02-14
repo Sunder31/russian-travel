@@ -1,0 +1,12 @@
+.lang-link__en{
+    max-width: 30px;
+    height: 28px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+@media (max-width: 320px) {
+    .en__lang-link{
+            max-width: 22px;
+            height: 20px;
+        }
+}

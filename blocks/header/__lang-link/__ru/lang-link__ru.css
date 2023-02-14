@@ -1,0 +1,12 @@
+.lang-link__ru{
+    max-width: 30px;
+    height: 28px;
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+@media (max-width: 320px) {
+    .ru__lang-link{
+            max-width: 22px;
+            height: 20px;
+        }
+}
