@@ -21,7 +21,6 @@
             width: 186px;
             height: auto;
             margin: 64px 188px 24px 16px;
-            display: flex;
             flex-direction: column;
         }
 }

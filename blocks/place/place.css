@@ -27,13 +27,3 @@
             "paragraph";
         }
 }
-@media (max-width: 320px) {
-    .place{
-            gap: 32px;
-            grid-template-areas: 
-            "title" 
-            "website"
-            "image" 
-            "paragraph";
-        }
-}
