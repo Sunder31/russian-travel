@@ -19,6 +19,20 @@
             min-height: 480px;
         }
 }
+
+@media (max-width: 604px) {
+    .cover{
+            min-height: 360px;
+        }
+}
+
+@media (max-width: 434px) {
+    .cover{
+            min-height: 300px;
+        }
+}
+
+
 @media (max-width: 320px) {
     .cover{
             margin: 0;
