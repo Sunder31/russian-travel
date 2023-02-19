@@ -20,7 +20,7 @@
     .footer{
             width: 186px;
             height: auto;
-            margin: 64px 188px 24px 16px;
+            margin: 64px 188px 0 16px;
             flex-direction: column;
         }
 }

@@ -1,6 +1,6 @@
 .intro{
     margin: 92px 442px 92px 148px;
-    max-width: 690px;
+    width: fit-content;
 }
 @media (max-width: 1024px) {
     .intro{
